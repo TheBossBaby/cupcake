@@ -110,8 +110,10 @@ body{
     background-position: center;
     background-size: cover;
 }
+.tex-abv{
+margin-top: 4%
+}
 .txt{
-    margin-top:3%;
     font-size: 1.5em;
     color: #d6567a;
         text-align: center;
@@ -127,7 +129,7 @@ body{
     color: #d6567a;
 }
 .tex-below{
-margin-top: 25%;
+margin-top: 45%;
 }
 .sidenav {
         height: 100%;
