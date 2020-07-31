@@ -1,4 +1,4 @@
-
+/*
 body{
     background-image: url(../images/cc5.jpg);
     background-attachment: fixed;
@@ -101,4 +101,12 @@ body{
 
 
         .sidenav a {font-size: 18px;}
-      }
+      }*/
+                                                /*mobile*/
+body{
+    background-image: url(../images/cc5.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
