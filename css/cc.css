@@ -114,7 +114,7 @@ body{
 .txt{
     font-size: 1.5em;
     color: #d6567a !important;
-    margin-top:10%;
+    margin-top:10% !important;
 }
 .tx{
     color: #d6567a;
@@ -126,7 +126,7 @@ body{
     text-align: center;
     font-size:1.5em;
     color: #d6567a;
-    margin-top: 45%;
+    margin-top: 55%;
 }
 
 .sidenav {
