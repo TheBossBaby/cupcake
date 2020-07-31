@@ -113,6 +113,9 @@ body{
 .txt{
     font-size: 2em;
 }
+.tx{
+    font-size: 2em;
+}
 .sidenav {
         height: 100%;
         width: 0;
@@ -147,3 +150,4 @@ body{
         margin-left: 50px;
       }
 .sidenav {padding-top: 15px;}
+
