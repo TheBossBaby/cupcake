@@ -110,27 +110,25 @@ body{
     background-position: center;
     background-size: cover;
 }
-.tex-abv{
-margin-top: 7%
-}
+=
 .txt{
-    font-size: 1.2em;
+    font-size: 1.5em;
     color: #d6567a;
-    margin-top: 5%;
+    margin-top: 10%;
 }
 .tx{
     color: #d6567a;
         text-align: center;
     font-size: 1.5em;
+    margin-top: 15%;
 }
 .txtt{
     text-align: center;
     font-size:1.5em;
     color: #d6567a;
+    margin-top: 45%;
 }
-.tex-below{
-margin-top: 45%;
-}
+
 .sidenav {
         height: 100%;
         width: 0;
