@@ -111,10 +111,15 @@ body{
     background-size: cover;
 }
 .txt{
-    font-size: 2em;
+    margin-top:3%;
+    font-size: 1.5em;
+    color: #d6567a;
+        text-align: center;
 }
 .tx{
-    font-size: 2em;
+    color: #d6567a;
+        text-align: center;
+    font-size: 1.5em;
 }
 .sidenav {
         height: 100%;
