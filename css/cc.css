@@ -1,0 +1,104 @@
+
+body{
+    background-image: url(../images/cc5.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.navbar-toggler {
+    color: #b8449f;
+    }
+    .navbar-toggler:focus,
+    .navbar-toggler:active,
+    .navbar-toggler-icon:focus {
+        outline: none;
+        box-shadow: none;
+    }
+    p{
+        font-size: 3.8em !important;
+        color: #d6567a;
+        text-align: center;
+    }
+    .txt{
+        margin-left: 6%;
+    }
+    .btn{
+        background-color: #F2809A ;
+        border-radius: 30px;
+        margin-left: 41%;
+    }
+    .btn-text{
+        color: #ffffff;
+        text-align: center;
+        font-size: 2em ;
+        font-family:  'Segoi Script','Ink Free','MV Boli',Verdana, Geneva, Tahoma, sans-serif;
+        
+    }
+    .txtt{
+        font-size: 3.3em !important;
+        color: #A42C44;
+    }
+    .tex-below{
+        margin-top: 20%;
+    }
+
+    .sidenav {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        background-color: #eeb0d2;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+      }
+      
+      .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #5fb399;
+        display: block;
+        transition: 0.3s;
+      }
+      
+      .sidenav a:hover {
+        color: #85335c;
+      }
+      
+      .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+      }
+      
+      @media screen and (max-height: 450px) {
+        .sidenav {padding-top: 15px;}
+        .tex-abv, .tex-below{font-size: 0.4em !important;}
+        .tex-abv{
+          margin-top: 2%;
+        }
+        .tx{
+          margin-left: 4%;
+        }
+        .tex-below{
+          margin-top: 40%;
+        }
+        .btn{
+          margin-left: 32% !important;
+          width: 25%;
+          height: 10%;
+        }
+        .btn-text{
+          font-size: 2.8em !important;
+        }
+
+
+        .sidenav a {font-size: 18px;}
+      }
